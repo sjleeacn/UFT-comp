@@ -1,0 +1,3 @@
+﻿ @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("ENJOY PREMIUM SOUNDColorful").Check CheckPoint("ENJOY PREMIUM SOUNDColorful style meets serious soundHP S9500 Bluetooth Wireless Speaker | Starting at $200 BUY NOW") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("ENJOY PREMIUM SOUNDColorful")_;_script infofile_;_ZIP::ssf3.xml_;_
